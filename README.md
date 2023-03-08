@@ -1,2 +1,2 @@
 # C-Language
-C-Programs with Data Structures
+C basic Programs and Data Structures in c.
